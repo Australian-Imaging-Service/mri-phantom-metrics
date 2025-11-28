@@ -1,2 +1,2 @@
-# phantom-analysis
-Methods for extracting metrics from acquisitions on phantoms
+# MR Phantom Metrics
+Methods for extracting metrics from acquisitions on MRI phantoms
